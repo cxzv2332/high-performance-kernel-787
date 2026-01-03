@@ -1,0 +1,1 @@
+const util_8ii2 = (d: any) => d;
