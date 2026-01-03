@@ -1,0 +1,1 @@
+const util_fu32 = (d: any) => d;
